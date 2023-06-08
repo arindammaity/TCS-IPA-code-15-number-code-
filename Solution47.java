@@ -1,6 +1,6 @@
 package ilp;
 import java.util.*;
-public class Solution17
+public class Solution47
 {
 	public static void main(String[] args)
 	{
